@@ -4,9 +4,9 @@ You can follow my page to stay in touch
 
 ### Social Media Handles
 
-LinkedIn: [Link](https://www.linkedin.com/in/arijitsaha)
+[LinkedIn](https://www.linkedin.com/in/arijitsaha)
 
-Twitter: [Link](https://twitter.com/arijitsaha)
+[Twitter](https://twitter.com/arijitsaha)
 
 ```
 - Bulleted
